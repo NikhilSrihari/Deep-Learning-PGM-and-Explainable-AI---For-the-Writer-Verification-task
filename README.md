@@ -1,4 +1,4 @@
-# Deep-Learning-and-PGM
+# Deep Learning, PGM and Explainable AI - For the Writer Verification task
 
 The purpose of this project is to document the output and analysis of Writer verification with 4 different AI models: Bayesian Model, Siamese Network, Autoencoder network and Multitask Trainable Encoder Network on 3 different data sets. <br/> 
 Our primary task , i.e., the Writer Verification task is simple - Given 2 images, determine if they are from the same writer or from different writers. <br/>

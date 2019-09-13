@@ -1,6 +1,6 @@
 # Deep-Learning-and-PGM
 
-The purpose of this project is to document the output and analysis of Writer verification with 4 different AI models: Bayesian Model, Siamese Network, Autoencoder network and Multitask Trainable Encoder Network on 3 different data sets. \ 
+The purpose of this project is to document the output and analysis of Writer verification with 4 different AI models: Bayesian Model, Siamese Network, Autoencoder network and Multitask Trainable Encoder Network on 3 different data sets. <br/> 
 Our primary task , i.e., the Writer Verification task is simple - Given 2 images, determine if they are from the same writer or from different writers. \
 - Data Set : We use the 15FeatureDataset from CEDAR Buffalo site.
 - The Data is not made available as part of this repo. It needs to be in the same folder as the .py files under a folder named "15FeatureDataset" \
